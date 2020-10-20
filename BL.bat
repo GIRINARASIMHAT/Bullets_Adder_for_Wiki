@@ -1,2 +1,2 @@
-@py.exe C:\Users\GIRI\OneDrive\Desktop\BL.py %*
+@py.exe [path of BL.py file]  %*
 @pause
